@@ -1,0 +1,7 @@
+__pycache__
+.python-version
+*.app
+*.log
+*.egg-info
+python/build
+.DS_Store
