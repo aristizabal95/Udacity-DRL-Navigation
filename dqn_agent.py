@@ -3,7 +3,6 @@ import torch.nn as nn
 import random
 import numpy as np
 from tqdm import tqdm
-from typing import Type
 
 from experience_replay import ExperienceReplay
 from value_estimators import ValueEstimator
